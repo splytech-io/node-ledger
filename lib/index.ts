@@ -1,6 +1,6 @@
 import * as config from '@rainder/config';
 import * as request from 'request-promise';
-import { ITransaction } from './transaction.class';
+import { ITransaction } from './transaction.interface';
 import { IListEndpointRequestQuery } from './list.interface';
 
 const CONFIG = config.init({

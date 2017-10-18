@@ -26,5 +26,16 @@
     "ts-mocha": "^1.0.3",
     "ts-node": "^3.3.0",
     "typescript": "^2.5.3"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splytech-io/node-ledger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/splytech-io/node-ledger/issues"
+  },
+  "homepage": "https://github.com/splytech-io/node-ledger#readme"
 }

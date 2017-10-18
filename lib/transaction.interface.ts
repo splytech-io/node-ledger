@@ -1,12 +1,10 @@
 export interface ITransaction {
+  utid: string;
+
   spec: {
     amount: number;
-    hash?: string;
+    type?: string;
   };
 
   metdata: any;
-}
-
-export class Transaction {
-
 }
