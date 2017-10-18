@@ -1,7 +1,6 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "outDir": "./build",
     "sourceMap": true,
     "declaration": false,
     "module": "commonjs",
