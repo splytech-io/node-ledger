@@ -1,5 +1,2 @@
-server:
-  port: 7201
-
-mongodb:
-  url: mongodb://127.0.0.1/ledger
+ledger:
+  host: http://127.0.0.1:7201
